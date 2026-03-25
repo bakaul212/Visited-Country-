@@ -1,6 +1,6 @@
 ---
 
-A simple project demonstrating the usage of the Programming Hero Countries API endpoints.
+A simple project demonstrating the usage of the API endpoints.
 Provides information about all countries, specific country by code or name, or by language.
 ---
 
